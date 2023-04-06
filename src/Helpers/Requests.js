@@ -1,4 +1,4 @@
-const API_KEY = "";
+const API_KEY = "be6f11eaa82e108a3ee0ee5d474964cd";
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
